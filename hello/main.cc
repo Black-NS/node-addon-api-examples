@@ -1,4 +1,3 @@
-#include <node_api.h>
 #include <napi.h>
 
 /*

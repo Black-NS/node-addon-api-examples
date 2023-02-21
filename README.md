@@ -3,6 +3,7 @@ node-addon-api-examples
 
 ## project running
 ```
+npm install
 cd ${project name}
 make
 ```
