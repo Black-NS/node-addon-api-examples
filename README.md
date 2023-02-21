@@ -16,3 +16,4 @@ make
 
 ## project list
 - hello - first nodejs library, print only string
+- hello_class - using c++ class, print only string, no argument 
