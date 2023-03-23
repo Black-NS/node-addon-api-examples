@@ -17,4 +17,7 @@ make
 ## project list
 - hello - first nodejs library, print only string
 - hello_class - using c++ class, print only string, no argument 
-- echo - ouputting echo messages using asyncworker
+- echo - ouputting echo messages using asyncworker(
+### NOTE
+https://nodejs.github.io/node-addon-examples/special-topics/asyncworker/
+)
