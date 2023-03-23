@@ -1,5 +1,6 @@
 SUBDIRS = hello \
 			hello_class \
+			echo \
 
 .SILENT : all build run clean
 
